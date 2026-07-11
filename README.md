@@ -61,6 +61,7 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+🇮🇹  Christina Ciola 🍿
 
 :hear_no_evil: Another student... mystery!?! 🙉 
 
