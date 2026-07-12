@@ -60,7 +60,7 @@ capstone-project/
 
 ---
 # Student Sign-in
-📊  Dr. Geist  🍄
+📊  Joseph Ciola 😂
 
 :hear_no_evil: Another student... mystery!?! 🙉 
 
