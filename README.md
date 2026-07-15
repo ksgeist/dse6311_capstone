@@ -61,9 +61,13 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+
 💻 Xin (Vicky) Guo 🎾
+
 J. Casey Brookshier 😎😎
+
 📊  Joseph Ciola 😂
+
 🇮🇹  Christina Ciola 🍿
 
 :hear_no_evil: Another student... mystery!?! 🙉 
