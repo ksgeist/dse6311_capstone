@@ -61,8 +61,5 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
-
-:hear_no_evil: Another student... mystery!?! 🙉 
-
-THIS IS THE LINE FROM THE KATIE BRANCH!
+💻 Xin (Vicky) Guo 🎾
 J. Casey Brookshier 😎😎
