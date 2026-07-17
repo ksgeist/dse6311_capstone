@@ -70,6 +70,12 @@ J. Casey Brookshier 😎😎
 
 🇮🇹  Christina Ciola 🍿
 
+Jason Kuzmission ⚾️
+
 :hear_no_evil: Another student... mystery!?! 🙉 
 
 Brian Wrenn 🫡
+
+William Reed ⚓
+
+Ryan Waterman 😶‍🌫️
