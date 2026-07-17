@@ -74,7 +74,7 @@ J. Casey Brookshier 😎😎
 
 Jason Kuzmission ⚾️
 
-:hear_no_evil: Another student... mystery!?! 🙉 
+Martin Gotora ⚽️ 🥅
 
 Ngongha JR A. Fon 🙉 🎾
 
@@ -83,3 +83,7 @@ Brian Wrenn 🫡
 William Reed ⚓
 
 Ryan Waterman 😶‍🌫️
+
+:hear_no_evil: Another student... mystery!?! 🙉 
+
+
