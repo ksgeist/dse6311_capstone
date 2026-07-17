@@ -70,5 +70,20 @@ J. Casey Brookshier 😎😎
 
 🇮🇹  Christina Ciola 🍿
 
-:hear_no_evil: Another student... mystery!?! 🙉 
+💥 Brendan Collari 💥 
+
+Jason Kuzmission ⚾️
+
 Martin Gotora ⚽️ 🥅
+
+Ngongha JR A. Fon 🙉 🎾
+
+Brian Wrenn 🫡
+
+William Reed ⚓
+
+Ryan Waterman 😶‍🌫️
+
+:hear_no_evil: Another student... mystery!?! 🙉 
+
+
