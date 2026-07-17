@@ -72,4 +72,14 @@ J. Casey Brookshier 😎😎
 
 💥 Brendan Collari 💥 
 
+Jason Kuzmission ⚾️
+
 :hear_no_evil: Another student... mystery!?! 🙉 
+
+Ngongha JR A. Fon 🙉 🎾
+
+Brian Wrenn 🫡
+
+William Reed ⚓
+
+Ryan Waterman 😶‍🌫️
