@@ -84,6 +84,8 @@ William Reed ⚓
 
 Ryan Waterman 😶‍🌫️
 
+lynch patrick :)
+
 :hear_no_evil: Another student... mystery!?! 🙉 
 
 
