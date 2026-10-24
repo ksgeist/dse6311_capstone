@@ -50,12 +50,11 @@ capstone-project/
 └── source/						# Source files
 	├── data/					# Data handling (wrangling, cleaning, preprocessing)
 	├── features/				# Feature selection
-	├── models/					# Fitted models
-    |	├── baseline/
-    |	├── RF/
-    |	└── GBM/	
-    └── visualization/			# EDA
-
+	├── visualization/			# EDA
+ 	└─- models/					# Fitted models
+    		├── baseline/
+    		├── RF/
+    		└── GBM/	
 ```
 
 ---
