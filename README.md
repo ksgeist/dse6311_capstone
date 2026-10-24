@@ -62,34 +62,6 @@ capstone-project/
 # Student Sign-in
 📊  Dr. Geist  🍄
 
-💻 Xin (Vicky) Guo 🎾
-
-J. Casey Brookshier 😎😎
-
-📊  Joseph Ciola 😂
-
-🇮🇹  Christina Ciola 🍿
-
-💥 Brendan Collari 💥 
-
-Jason Kuzmission ⚾️
-
-Martin Gotora ⚽️ 🥅
-
-Ngongha JR A. Fon 🙉 🎾
-
-Brian Wrenn 🫡
-
-William Reed ⚓
-
-Ryan Waterman 😶‍🌫️
-
-Jonathan Layne 🤔
-
-lynch patrick :)
-
 :hear_no_evil: Another student... mystery!?! 🙉 
-
-Kevin Bucci  😂
 
 
