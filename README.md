@@ -49,9 +49,9 @@ capstone-project/
 |
 └── source/                       # Source files
 	├── data/                 # Data wrangling, cleaning, preprocessing
-	├── features/               # Feature selection
-	├── visualization/          # EDA & unsupervised models
- 	└─- models/                 # Fitted models
+	├── features/             # Feature selection
+	├── visualization/        # EDA & unsupervised models
+ 	└─- models/               # Fitted models
     		├── baseline/
     		├── RF/
     		└── GBM/	
