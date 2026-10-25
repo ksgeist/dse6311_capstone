@@ -32,7 +32,7 @@ Furtherm the goal is not simply to finish a project. **It is to become a better 
 | Week | Focus | Required Evidence of Progress (Deliverables) |
 |---|---|---|
 | **1. Kickoff** | Project framing and charter, scope, and project management, GitHub workflow | Project Charter, Initialized GitHub Repository | 
-| **2. Get into the Data** | Data acquisition and quality, finalized project scope and background, and preliminary EDA | Formal Analysis Plan with Background/Introduction that includes in Appendix: (1) a data-loading attempt with brief "barebones" EDA and (2) data inventory (Data Dictionary/Codebook)
+| **2. Get into the Data** | Data acquisition and quality, finalized project scope and background, and preliminary EDA | Finalized Project Proposal (including data acquisition and description and analysis plan) |
 | **3. Prepare Data & Prevent Leakage** | Data cleaning, preprocessing, feature engineering, & leakage prevention | Reproducible cleaning and preprocessing workflow (repo) and Data Preprocessing & Leakage Prevention Report |
 | **4. Polished EDA and Unsupervised Model(s)** | Report-ready EDA section and explore the utility of at least one unsupervised analysis | EDA and Unsupervised Model(s) Report |
 | **5. Baseline Model(s)** | Fit the simplest appropriate baseline model(s) with evaluation and, **as appropriate**, interpretation | Baseline Model(s) Report |
