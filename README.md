@@ -35,10 +35,10 @@ capstone-project/
 ├── FinalDeliverable.pdf
 |
 ├── data/
-|	├── raw/                     # Original data (never modify)
-|	├── interim/                 # Temporary cleaned data (no large datasets)
-|	├── processed/               # Final modeling datasets
-|	└── external/                # Public or third-party datasets
+|	├── raw/                  # Original data (never modify)
+|	├── interim/              # Temporary cleaned data (no large datasets)
+|	├── processed/            # Final modeling datasets
+|	└── external/             # Public or third-party datasets
 |
 ├── reports/
 |	├── proposal/
@@ -47,11 +47,11 @@ capstone-project/
 |	├── modeling/
 |	└── archive/
 |
-└── source/				# Source files
-	├── data/			# Data wrangling, cleaning, preprocessing
-	├── features/		# Feature selection
-	├── visualization/	# EDA & unsupervised models
- 	└─- models/			# Fitted models
+└── source/                     # Source files
+	├── data/                   # Data wrangling, cleaning, preprocessing
+	├── features/               # Feature selection
+	├── visualization/          # EDA & unsupervised models
+ 	└─- models/                 # Fitted models
     		├── baseline/
     		├── RF/
     		└── GBM/	
