@@ -1,0 +1,89 @@
+# The Curated Project Repository
+
+1. __Bus Reliability__. Analyze and predict bus travel times to identify where and when transit service is least reliable. The goal might be to understand variation in travel times and develop insights that could help transit agencies improve scheduling and passenger expectations.
+
+2. __Car Insurance Risk__. Explore the reliability of customer data at the point of entry in their automobile insurance policy dataset to predict future customer behavior. The goal could be to use customer segmentation and risk at the initial point of policy purchase ($t_0$) to predict future coverage utilization.
+
+3. __Customer Churn__. Investigate how customer subscription histories and listening behavior can be used to predict future churn. The goal might be to identify meaningful patterns in customer behavior while developing models that respect the temporal structure of the data, especially around an intervention point such as a price change.
+
+4. __Ecotoxicology Across Species__. ***Possible longer-term research involvement; make sure to reach out if interested***. Explore susceptibility to ecotoxins across numerous species to look unearth actionable insights. Possible avenues to explore include predicting genetic disruptors in animals or testing the reliability of susceptibility levels in invertebrates to predict analogous susceptibility in vertebrates for the same or similar toxins.
+
+5. __Electricity Pricing__. Investigate how household electricity consumption responds to variable electricity prices and whether household demand flexibility can be predicted from usage patterns and other characteristics. The project connects time-series analysis with real-world questions about energy demand and consumer behavior.
+
+6. __Gene Expression in Ecology, Evolution, & Environmental Studies__. ***Longer-term research involvement; make sure to reach out if interested; must have taken DSE6630***. This research project is an extension of work we started in DSE6630, Healthcare and Life Sciences Analytics, with the goal of setting best practice guidelines for the application of machine learning models to gene expression data. You have two pathway choices with support from Dr. Geist, but you have the option to think about the organism or type of study you'd like to focus on!
+
+6. __Hospital-level_Infections__. Using hospital-level quality metrics, investigate the reliability of these metrics to reliably predict infection rates at the hospital-level. This has potential to inform the robustness of hospital metrics or guide development of new metrics.
+
+7. __Plant Disease Classification__. Develop and evaluate __image-processing models__ to distinguish healthy plants from those affected by common crop diseases. The project could explore how image features and deep learning can support agricultural decision-making while examining the limitations of models trained on controlled images.
+
+8. __Retail Inventory Limited by Stockouts__. Investigate how retailers can better forecast product demand when observed sales are affected by stockouts. The project connects predictive modeling with inventory management decisions, balancing the risks of excess inventory against lost sales from unavailable products.
+
+9. __Simulated_mHealth_Symptom_Tracker__. Develop and evaluate models to differentiate diseases with overlapping symptomatology as collected from a mobile health application. This project has the potential to inform the robustness of such applications as they begin to emerge onto the marketplace.
+
+10. __Soccer Analytics__. Investigate which in-game actions and possession sequences are associated with creating dangerous scoring opportunities. The goal could be to translate event-level sports data into interpretable insights about attacking strategies and performance.
+
+11. __Survey Weights & Coronary Heart Disease__. ***Longer-term research involvement; make sure to reach out if interested***. You could be involved in developing a much-needed guide for best practices when it comes to large social surveys and machine learning! This includes large surveys like the U.S. Census, the General Social Survey, and others. Here, you would be using the Behavioral Risk Factor Surveillance System (BRFSS) to test the impact of survey weights when predicting coronary heart disease.   
+
+11. __U.S. Traffic Accidents__. Explore how to predict fatal from non-fatal traffic accidents by merging different, diverse publicly available federal transportation data sources to create a custom dataset for this purpose. The goal could be to intersect non-fatal traffic records with fatalities, and further intersect with weather or population-level data (or both), to create a custom dataset for analysis.
+
+# Self-Designed Projects
+
+You are not required to use a curated project, although it can be challenging to self-design a project in the limited duration in which Capstone runs. If you choose a self-designed route, note that you will need to be off-and-running on your dataset within a matter of days in order to finish on time. 
+
+I love and encourage intellectual freedom, and all of the curated projects above have flexibility for that. Given the time constraints, sometimes it's easier to go the path of least resistance (and still do something unique or novel) than try to invent the wheel in 8 short weeks. I hear it took many, many years for the wheel to get invented...
+
+That said, if you have your heart set on designing your own project, here are some __brief rules to follow__:
+
+1. You may not use a Kaggle dataset without approval. You may be **inspired** by a Kaggle competition, but you must use the original or a similar dataset.
+
+2. You should get your project approved sooner than later. You can do this by email; __you do not want to wait until after you hear back that I have accepted your project charter__. This can be too late and cause you stress!
+
+3. I am happy to meet with you to troubleshoot issues or try to help you improve your project idea, but do not come to the meeting without sourcing candidate datasets first. It is not a good use of either of our time. 
+
+## Some Other Data Sources for Self-Designed Projects
+
+This is a table of datasets that I have assembled for DSE6311, but it is by NO means inclusive! You are also welcome to scrape websites or PDFs to generate your own datasets, and I encourage you to connect via API whenever possible. 
+
+**NOTE**: If you know of a repo or you find a resource you want added to the list, send it to me. Or if you find a mistake or dead link, please let me know.
+
+
+| Theme                       | Site Name                                                                                                                         | Notes                                                                           | Sign Up Required?                                  |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------- |
+| American Politics           | [Vermont Library Data Collection](https://guides.lib.vt.edu/c.php)                     |                                                                                 |                                                    |
+| Data Journalism             | [FiveThirtyEight](https://github.com/fivethirtyeight/data)                                                 |                                                                                 |                                                    |
+| Data Journalism             | [ProPublica](https://www.propublica.org/datastore/datasets)                                                |                                                                                 |                                                    |
+| Economic                    | [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)                                       |                                                                                 |                                                    |
+| Environmental               | [US Forest Service Data Warehouse](https://data.fs.usda.gov/geodata/edw/index.php)                         | Geospatial data as well as data from studies performed by the US Forest Service |                                                    |
+| Environmental               | [National Solar Radiation Database](https://nsrdb.nrel.gov/data-viewer)                                    |                                                                                 |                                                    |
+| Epidemiology                | [U Pitt Health Sciences Library Data Collection](https://hsls.libguides.com/health-data-sources/data-sets) | Some redundancy with this list                                                  | Some require institutional access                  |
+| Financial                   | [NASDAQ Stock Exchange](https://www.nasdaq.com/)                                                           |                                                                                 |                                                    |
+| Healthcare                  | [Agency for Healthcare Research and Quality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)      |                                                                                 |                                                    |
+| Natural Language Processing | [NLP Repo](https://github.com/niderhoff/nlp-datasets)                                                      | Would need to improve upon models others have done                              |                                                    |
+| Public Health               | [UF Public Health Data Collection](https://guides.uflib.ufl.edu/precisionpublichealth/datalibrary)         | Some redundancy with this list                                                  |                                                    |
+| Public Health               | [UNC Public Health Data Collection](https://guides.lib.unc.edu/data-sciences/public-health)                | Toxicology, mother & child, and more                                            |                                                    |
+| Social Surveys              | [General Social Survey](https://gss.norc.org/)                                                             |                                                                                 | Yes (but can access historical archives through `R`) |
+| Social Surveys              | [Indices of Social Development](https://isd.iss.nl/data-access/)                                           |                                                                                 |                                                    |
+| Sociodemographic            | [data.census.gov](https://data.census.gov/)                                                                |                                                                                 |                                                    |
+| Sustainable Energy          | [National Renewable Energy Laboratory](https://www.nrel.gov/grid/data-tools.html)                          |                                                                                 |                                                    |
+| Various                     | [Kaggle](https://www.kaggle.com/)                                                                          | Would need to improve upon models others have done                              | Yes                                                |
+| Various                     | [Data World](https://data.world/)                                                                          | Some datasets are small and you might want to try to source the originals       | Yes                                                |
+| Various                     | [UC Irvine ML Dataset](https://archive.ics.uci.edu/ml/index.php)                                           | Would need to improve upon models others have done                              |                                                    |
+| Various                     | [AWS Open Data](https://registry.opendata.aws/)                                                            | Would need to improve upon models others have done                              |                                                    |
+| Various                     | OECD                                                                                                                              | Healthcare, Policy, Econonomic / Financial, & more                              |                                                    |
+| Various                     | [Data.gov](https://data.gov/)                                                                              | The main warehouse for US open data                                             |                                                    |
+| Various                     | [Google Dataset Research Browser](https://datasetsearch.research.google.com/)                              | Google browser for open repositories, but not everything will come up           |                                                    |
+| Various                     | [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)                                             | Would need to improve upon models others have done                              |                                                    |
+| Various                     | [Data Is Plural](https://www.data-is-plural.com/)                                                          | Would need to improve upon models others have done                              |                                                    |
+| Various                     | [Flowing Data](https://flowingdata.com/)                                                                   | Would need to improve upon models others have done                              |                                                    |
+| Various                     | [CDC.gov](https://www.cdc.gov/)                                                                            |                                                                                 |                                                    |
+| Various                     | [Health.gov](https://health.gov/)                                                                          |                                                                                 |                                                    |
+| Various                     | [Data Dryad](https://datadryad.org/stash)                                                                  | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [IEEE DataPort](https://ieee-dataport.org/)                                                                | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Science DataBank](https://www.scidb.cn/en)                                                                | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [GigaDB](http://gigadb.org/)                                                                               | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Mendeley Data](https://data.mendeley.com/)                                                                | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Open Science Framework](https://osf.io/)                                                                  | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Synapse](https://www.synapse.org/)                                                                        | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Vivli](https://vivli.org/)                                                                                | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Zenodo](https://zenodo.org/)                                                                              | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
+| Various                     | [Figshare](https://figshare.com/)                                                                          | Repositories of scientific data (many are from peer-reviewed articles)          |                                                    |
