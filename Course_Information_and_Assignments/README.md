@@ -73,9 +73,11 @@ An initial data inventory and EDA, with a confirmed project scope and final anal
 
 ### Key Deliverable(s):
 
-1. **Analysis Plan**, complete with:
+1. **Finalized Project Proposal**, which includes:
   
   - Well-informed **background/introduction** to the problem
+  
+  - **Analysis Plan**
   
   - **Appendix** that contains:
   
