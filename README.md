@@ -47,8 +47,8 @@ capstone-project/
 |	├── modeling/
 |	└── archive/
 |
-└── source/                     # Source files
-	├── data/                   # Data wrangling, cleaning, preprocessing
+└── source/                       # Source files
+	├── data/                 # Data wrangling, cleaning, preprocessing
 	├── features/               # Feature selection
 	├── visualization/          # EDA & unsupervised models
  	└─- models/                 # Fitted models
