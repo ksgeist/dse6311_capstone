@@ -38,6 +38,7 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+🎃 Brian D'Alelio 🎃
 
 :hear_no_evil: Another student... mystery!?! 🙉 
 
