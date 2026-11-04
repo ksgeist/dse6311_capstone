@@ -53,6 +53,8 @@ Jordan Italia 🐞
 
 Daiya Jacobs 🎒
 
+Ruby Collins 😼
+
 Hello Class, Hello World
 
 :hear_no_evil: Another student... mystery!?! 🙉 
