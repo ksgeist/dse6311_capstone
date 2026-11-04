@@ -38,6 +38,7 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+Evelyn Barragan :blush:
 
 🎃 Brian D'Alelio 🎃
 
