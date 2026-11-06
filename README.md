@@ -43,6 +43,8 @@ capstone-project/
 
 Martin Omasta 🌹✊
 
+Anthony Dominici
+
 - Alden George 🚜 
 
 Ayden Lang :bug:
