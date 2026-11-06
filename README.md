@@ -53,6 +53,8 @@ Jordan Italia 🐞
 
 Daiya Jacobs 🎒
 
+Nick Degnan 🎶
+
 Hello Class, Hello World
 
 :hear_no_evil: Another student... mystery!?! 🙉 
