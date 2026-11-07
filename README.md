@@ -43,6 +43,8 @@ capstone-project/
 
 Martin Omasta 🌹✊
 
+Anthony Dominici
+
 - Alden George 🚜 
 
 Ayden Lang :bug:
@@ -54,6 +56,8 @@ Jordan Italia 🐞
 Daiya Jacobs 🎒
 
 Ruby Collins 😼
+
+Nick Degnan 🎶
 
 Hello Class, Hello World
 
