@@ -55,6 +55,8 @@ Jordan Italia 🐞
 
 Daiya Jacobs 🎒
 
+Ruby Collins 😼
+
 Nick Degnan 🎶
 
 Hello Class, Hello World
