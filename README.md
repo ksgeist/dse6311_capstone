@@ -53,6 +53,8 @@ Jordan Italia 🐞
 
 Daiya Jacobs 🎒
 
+Jackie Gmiterko 💛
+
 Hello Class, Hello World
 
 :hear_no_evil: Another student... mystery!?! 🙉 
