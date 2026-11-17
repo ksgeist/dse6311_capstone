@@ -39,6 +39,8 @@ capstone-project/
 # Student Sign-in
 📊  Dr. Geist  🍄
 
+🥷 Anthony Ruoti 🥷
+
 Evelyn Barragan :blush:
 
 🎃 Brian D'Alelio 🎃
@@ -62,5 +64,3 @@ Nick Degnan 🎶
 Hello Class, Hello World
 
 :hear_no_evil: Another student... mystery!?! 🙉 
-
-
